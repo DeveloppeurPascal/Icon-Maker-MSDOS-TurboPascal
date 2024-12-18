@@ -1,0 +1,25 @@
+msg=gb+f
+.msg_gb=
+Save Icon .ICN
+Load Icon .ICN
+Load Colors .PAL
+Quit Program
+This program can not run without a VGA graphics adapter...
+Quit Icon Maker ?
+Save this icon ?
+Load a new icon ?
+Load new colors ?
+Can not load CROSS.MOU...
+Mouse driver error...
+.msg_f=
+Sauver Icone .ICN
+Charger Icone .ICN
+Charger Couleurs .PAL
+Sortir du Programme
+Ce programme ne fonctionne qu'avec une carte VGA ou MCGA...
+Sortir de Icon Maker ?
+Sauver cette icone ?
+Charger une nouvelle icone ?
+Charger d'autres couleurs ?
+Ne peut charger CROSS.MOU...
+Erreur du driver de la souris...
